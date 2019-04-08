@@ -10,5 +10,6 @@
     <body>
         <h1>Hello!! Welcome to our CICD Demo!</h1>
         <h2>Just a demo application</h2>
+		<h4>Thank you all!!!</h4>
     </body>
 </html>
